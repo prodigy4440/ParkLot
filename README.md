@@ -36,3 +36,7 @@ Important models in the application and what they represent
 * Slot: This is a space in the parking lot that a car/vehicle can be parked
 * VehicleEntry: This is an individual car entry and exit which is billable.
 * SlotType: This represent a type of a slot in the parking which represent what type of car can be parked in there.
+
+
+### Todo
+Implement Authentication using Oauth2
